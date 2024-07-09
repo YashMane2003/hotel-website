@@ -1,0 +1,17 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header.jumbotron {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+footer p {
+    margin-top: 20px;
+}
